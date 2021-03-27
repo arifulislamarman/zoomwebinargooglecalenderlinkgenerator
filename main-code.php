@@ -1,4 +1,5 @@
- public function getGoogleCalendarLink()
+<?php  
+public function getGoogleCalendarLink()
     {
         // Get your start & end date
         // The start and end date below are Carbon objects
@@ -33,3 +34,4 @@
     }
     
     
+?>
